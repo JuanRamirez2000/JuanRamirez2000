@@ -1,7 +1,31 @@
-## Hey 👋, This is Juan Ramirez
-[![Gmail Badge](https://img.shields.io/badge/-juanpram2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juanpram2000@gmail.com)](mailto:juanpram2000@gmail.com) [![Github Badge](https://img.shields.io/badge/-JuanRamirez2000-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JuanRamirez2000/)](https://www.github.com/JuanRamirez2000/) <p align='left'>Student, Photographer, Coder, Sudoku Enthusiast</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=JuanRamirez2000 alt=JuanRamirez2000 /> </p>
+# Hey there, I'm Juan!
+## About me and what I do
+```python
+	class JuanRamirez:
+    	def __init__(self): 
+        	self.name 				= "Juan Ramirez",
+    		self.pronouns 			= ['He', 'Him'],
+        	self.career_interests 	= ['research', 'data_science', 'ml_engineer', 'teaching', 'mentoring', 'frontend_engineer'],
+        	self.ask_about 			= ['rock_climbing', 'hiking', 'photography', 'filmmaking', 'sudoku'],
+            self.code = {
+            	'research':	['Python', 'Matlab'],
+                'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'Bootstrap', 'TailwindCSS'],
+                'tools':	['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook', 'GIT', 'Github'],
+                'learning':	['PyTorch', 'Manim'],
+                'misc': 	['Kaggle']
+            }
+            self.socials = {
+            	'LinkedIn':		'https://www.linkedin.com/in/juanramirez2000/',
+                'Email':		'juanpram2000@gmail.com'
+            }
+       	def __str__(self):
+        	return self.name
+```
+## Some stats, in case you were curious! :3
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuanRamirez2000&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=JuanRamirez2000&show_icons=true&include_all_commits=true)](https://github.com/JuanRamirez2000/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRamirez2000&layout=compact)](https://github.com/JuanRamirez2000/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRamirez2000&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+## Just for fun, enjoy your stay!
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12139070956&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)

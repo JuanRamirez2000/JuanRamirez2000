@@ -3,10 +3,10 @@
 ```python
 	class JuanRamirez:
     	def __init__(self): 
-        	self.name 				= "Juan Ramirez",
-    		self.pronouns 			= ['He', 'Him'],
-        	self.career_interests 	= ['research', 'data_science', 'ml_engineer', 'teaching', 'mentoring', 'frontend_engineer'],
-        	self.ask_about 			= ['rock_climbing', 'hiking', 'photography', 'filmmaking', 'sudoku'],
+        	self.name = "Juan Ramirez",
+    		self.pronouns = ['He', 'Him'],
+        	self.career_interests = ['research', 'data_science', 'ml_engineer', 'teaching', 'mentoring', 'frontend_engineer'],
+        	self.ask_about = ['rock_climbing', 'hiking', 'photography', 'filmmaking', 'sudoku'],
             self.code = {
             	'research':	['Python', 'Matlab'],
                 'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'Bootstrap', 'TailwindCSS'],
@@ -22,7 +22,7 @@
         	return self.name
 ```
 ## Some stats, in case you were curious! :3
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRamirez2000&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuanRamirez2000&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Just for fun, enjoy your stay!

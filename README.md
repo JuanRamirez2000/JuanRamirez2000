@@ -22,9 +22,8 @@
         	return self.name
 ```
 ## Some stats, in case you were curious! :3
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuanRamirez2000&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRamirez2000&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JuanRamirez2000&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Just for fun, enjoy your stay!
 

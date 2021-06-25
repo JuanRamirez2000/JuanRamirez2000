@@ -15,8 +15,8 @@
                 'misc': ['Kaggle']
             }
             self.socials = {
-            	'LinkedIn':		'https://www.linkedin.com/in/juanramirez2000/',
-                'Email':		'juanpram2000@gmail.com'
+            	'LinkedIn': 'https://www.linkedin.com/in/juanramirez2000/',
+                'Email': 'juanpram2000@gmail.com'
             }
        	def __str__(self):
         	return self.name

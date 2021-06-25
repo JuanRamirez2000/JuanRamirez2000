@@ -8,11 +8,11 @@
         	self.career_interests = ['research', 'data_science', 'ml_engineer', 'teaching', 'mentoring', 'frontend_engineer'],
         	self.ask_about = ['rock_climbing', 'hiking', 'photography', 'filmmaking', 'sudoku'],
             self.code = {
-            	'research':	['Python', 'Matlab'],
+            	'research': ['Python', 'Matlab'],
                 'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'Bootstrap', 'TailwindCSS'],
-                'tools':	['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook', 'GIT', 'Github'],
-                'learning':	['PyTorch', 'Manim'],
-                'misc': 	['Kaggle']
+                'tools': ['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook', 'GIT', 'Github'],
+                'learning': ['PyTorch', 'Manim'],
+                'misc': ['Kaggle']
             }
             self.socials = {
             	'LinkedIn':		'https://www.linkedin.com/in/juanramirez2000/',

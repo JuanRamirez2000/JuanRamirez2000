@@ -10,9 +10,10 @@
             	self.code = {
             		'research': ['Python', 'Matlab'],
                 	'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'Bootstrap', 'TailwindCSS'],
+			'backend': ['Flask', 'MySQL'],
                 	'tools': ['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook', 'GIT', 'Github'],
                 	'learning': ['PyTorch', 'Manim'],
-                	'misc': ['Kaggle']
+                	'misc': ['Kaggle', 'R', 'ArcGIS']
             	}
            	 self.socials = {
             		'LinkedIn': 'https://www.linkedin.com/in/juanramirez2000/',

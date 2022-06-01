@@ -13,11 +13,12 @@
 			'backend': ['Flask', 'MySQL'],
                 	'tools': ['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook', 'GIT', 'Github'],
                 	'learning': ['PyTorch', 'Manim'],
-                	'misc': ['Kaggle', 'R', 'ArcGIS']
+                	'misc': ['Kaggle', 'R', 'ArcGIS', 'Swift']
             	}
            	 self.socials = {
             		'LinkedIn': 'https://www.linkedin.com/in/juanramirez2000/',
-			'Email': 'juanpram2000@gmail.com'
+			'Email': 'juanpram2000@gmail.com',
+			'Website': 'coming soon...'
             	}
        	def __str__(self):
         	return self.name

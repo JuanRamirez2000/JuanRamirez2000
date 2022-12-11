@@ -10,8 +10,8 @@
             	self.code = {
             		'research': ['Python', 'Matlab'],
                 	'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'Bootstrap', 'TailwindCSS'],
-			'backend': ['Flask', 'MySQL'],
-                	'tools': ['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook', 'GIT', 'Github'],
+			'backend': ['NodeJS', 'ExpressJS', 'Flask', 'MySQL'],
+                	'tools': ['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook', 'GIT', 'Github', 'Google Cloud Platform'],
                 	'learning': ['PyTorch', 'Manim'],
                 	'misc': ['Kaggle', 'R', 'ArcGIS', 'Swift']
             	}

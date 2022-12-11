@@ -18,7 +18,7 @@
            	 self.socials = {
             		'LinkedIn': 'https://www.linkedin.com/in/juanramirez2000/',
 			'Email': 'juanpram2000@gmail.com',
-			'Website': 'coming soon...'
+			'Website': 'www.juanr.dev'
             	}
        	def __str__(self):
         	return self.name

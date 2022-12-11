@@ -5,7 +5,7 @@
     	def __init__(self): 
         	self.name 		= "Juan Ramirez",
     		self.pronouns 		= ['He', 'Him'],
-        	self.career_interests 	= ['research', 'data_science', 'ml_engineer', 'teaching', 'mentoring', 'frontend_engineer'],
+        	self.career_interests 	= ['full_stack_engineer', 'research', 'data_science', 'ml_engineer', 'teaching', 'mentoring'],
         	self.ask_about 		= ['rock_climbing', 'hiking', 'photography', 'filmmaking', 'sudoku'],
             	self.code = {
             		'research': ['Python', 'Matlab'],

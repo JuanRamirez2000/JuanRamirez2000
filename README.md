@@ -6,7 +6,7 @@
         	self.name 		= "Juan Ramirez",
     		self.pronouns 		= ['He', 'Him'],
         	self.career_interests 	= ['full_stack_engineer', 'research', 'data_science', 'ml_engineer', 'teaching', 'mentoring'],
-        	self.ask_about 		= ['rock_climbing', 'hiking', 'photography', 'filmmaking', 'sudoku'],
+        	self.ask_about 		= ['power_lifting', 'hiking', 'camping', 'photography', 'youtube', 'sudoku'],
             	self.code = {
             		'research': ['Python', 'Matlab'],
                 	'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'TailwindCSS', 'D3.JS'],

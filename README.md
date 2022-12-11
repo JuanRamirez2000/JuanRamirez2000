@@ -9,9 +9,10 @@
         	self.ask_about 		= ['rock_climbing', 'hiking', 'photography', 'filmmaking', 'sudoku'],
             	self.code = {
             		'research': ['Python', 'Matlab'],
-                	'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'Bootstrap', 'TailwindCSS'],
+                	'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'TailwindCSS', 'D3.JS'],
 			'backend': ['NodeJS', 'ExpressJS', 'Flask', 'MySQL'],
-                	'tools': ['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook', 'GIT', 'Github', 'Google Cloud Platform'],
+			'web_dev_tools': ['GIT', 'Github', 'Google Cloud Platform', 'Vite']
+                	'research_tools': ['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook'],
                 	'learning': ['PyTorch', 'Manim'],
                 	'misc': ['Kaggle', 'R', 'ArcGIS', 'Swift']
             	}

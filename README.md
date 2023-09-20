@@ -9,12 +9,12 @@
         	self.ask_about 		= ['power_lifting', 'hiking', 'camping', 'photography', 'youtube', 'sudoku'],
             	self.code = {
             		'research': ['Python', 'Matlab'],
-                	'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'TailwindCSS', 'D3.JS'],
-			'backend': ['NodeJS', 'ExpressJS', 'Flask', 'MySQL'],
-			'web_dev_tools': ['GIT', 'Github', 'Google Cloud Platform', 'Vite'],
+                	'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'TailwindCSS'],
+			'backend': ['NextJS', 'tRPC', 'Convex', 'NextAuth', 'Clerk', 'ExpressJS', 'Flask', 'Prsima'],
+			'infra': ['Vercel', 'Google Cloup Platform', 'Railway']
+			'tools': ['GIT', 'Github'],
                 	'research_tools': ['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook'],
-                	'learning': ['PyTorch', 'Manim'],
-                	'misc': ['Kaggle', 'R', 'ArcGIS', 'Swift']
+                	'misc': ['Kaggle', 'R', 'ArcGIS', 'Swift', 'ReactNative']
             	}
            	 self.socials = {
             		'LinkedIn': 'https://www.linkedin.com/in/juanramirez2000/',

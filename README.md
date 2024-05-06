@@ -1,3 +1,4 @@
+![Metrics](/github-metrics.svg)
 # Hey there, I'm Juan!
 ## About me and what I do
 ```python

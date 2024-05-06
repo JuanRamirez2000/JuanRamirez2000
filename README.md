@@ -5,13 +5,14 @@
     	def __init__(self): 
         	self.name 		= "Juan Ramirez",
     		self.pronouns 		= ['He', 'Him'],
+		self.career		= 'data_analyst'
         	self.career_interests 	= ['full_stack_engineer', 'research', 'data_science', 'ml_engineer', 'teaching', 'mentoring'],
-        	self.ask_about 		= ['power_lifting', 'hiking', 'camping', 'photography', 'youtube', 'sudoku'],
+        	self.ask_about 		= ['power_lifting', 'hiking', 'camping', 'photography', 'youtube', 'chess'],
             	self.code = {
             		'research': ['Python', 'Matlab'],
                 	'frontend': ['HTML', 'CSS', 'Javascript', 'ReactJS' ,'TailwindCSS'],
-			'backend': ['NextJS', 'tRPC', 'Convex', 'NextAuth', 'Clerk', 'ExpressJS', 'Flask', 'Prsima'],
-			'infra': ['Vercel', 'Google Cloup Platform', 'Railway']
+			'backend': ['NextJS', 'tRPC', 'Convex', 'NextAuth', 'ClerkJS', 'ExpressJS', 'Flask', 'DrizzleORM'],
+			'infra': ['Vercel', 'Google Cloup Platform', 'Railway','Supabase']
 			'tools': ['GIT', 'Github'],
                 	'research_tools': ['Matlab', 'ScikitLearn', 'TensorFlow', 'Pandas', 'MatPlotLib', 'Seaborn', 'Jupyter notebook'],
                 	'misc': ['Kaggle', 'R', 'ArcGIS', 'Swift', 'ReactNative']
